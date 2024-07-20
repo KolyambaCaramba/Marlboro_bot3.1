@@ -1,0 +1,5 @@
+telebot
+datetime
+psycopg2
+aiogram
+functools
